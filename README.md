@@ -10,6 +10,6 @@ Description:
 Aymen Machrouhi (40250403) : 
 Christopher Puran (40006107) :
 Nihal Islam (40242307) :
-Yazdan
+Yazdan Syed (40221602):
 Carlos Guevara (40227586)
 Mohamed Oubagha (40248333) :
